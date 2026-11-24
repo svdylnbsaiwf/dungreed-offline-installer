@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Dungreed is a 2D side-scrolling action game with 2D Rogue-LITE elements. You become an adventurer exploring a continuously evolving dungeon to prevent the town from being destroyed. Eliminate enemies, use a variety of weapons and magic, eat food, and defeat evil in the dungeon!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS X 10.10 (Yosemite)+ |
+| **Processor** | Min: Dual core 2.6 ghz + / Rec: Intel core i5 series + | Dual core 2.6 ghz + |
+| **Memory** | Min: 1 GB RAM / Rec: 2 GB RAM | 1 GB RAM |
+| **Graphics** | nVidia GTS 450 or better | nVidia GTS 450 or better |
+| **Storage** | 400 MB available space | 400 MB available space |
+| **OS *** | Windows 7+ | Windows 7+ |
 
 ---
 
